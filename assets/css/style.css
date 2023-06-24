@@ -77,6 +77,7 @@ section#img1 {
 
 section#img2 {
     background-image: url('../imagens/por-do-sol.JPG');
+    background-position: center center;
 }
 
 section#img3 {
